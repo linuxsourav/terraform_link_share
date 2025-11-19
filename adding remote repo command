@@ -1,3 +1,12 @@
 git remote add origin git@github.com:linuxsourav/terraform_link_share.git
 git branch -M main
 git push -u origin main
+
+
+echo "# terraform_link_share" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin git@github.com:linuxsourav/terraform_link_share.git
+git push -u origin main
