@@ -1,1 +1,3 @@
 touch ~/.bashrc
+
+terraform -install-autocomplete
