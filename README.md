@@ -23,3 +23,5 @@ sudo apt-get install terraform
 
 terraform -help
 
+terraform plan -help
+
